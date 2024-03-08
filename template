@@ -1,5 +1,5 @@
 # Template file for 'void-wallpapers-xfce'
-pkgname=void-beauty-icons
+pkgname=chili-void-beauty-icons
 version=1.0.0
 revision=1
 noarch=true
