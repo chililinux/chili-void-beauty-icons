@@ -1,7 +1,7 @@
 # Maintainer: Vilmar Catafesta <vcatafesta@gmail.com>
 
 pkgname=chili-void-beauty-icons
-pkgdesc="Icons BeautyFolders and BeautyLine for void linux"
+pkgdesc="Icons BeautyFolders and BeautyLine"
 # depends=('')
 # makedepends=('')
 # conflicts=('')
